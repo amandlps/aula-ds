@@ -1,6 +1,6 @@
 const produto = {
-    nome: "Motorola Moto G15",
-    marca: "Motorola Moto",
+    nome: "Motorola Moto ",
+    marca: "Motorola Moto G15",
     preco: 899,10,
   };
   for ( let chave in produto ) {
