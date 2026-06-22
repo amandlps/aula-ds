@@ -11,6 +11,8 @@ const calculadora={
             return this.numero1-this.numero2}
         }
 
+        module.exports=calculadora
+
     
     
     
